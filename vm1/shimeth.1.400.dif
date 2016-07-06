@@ -1,0 +1,6 @@
+{
+    "configParameters": {
+        "interface-name": "ifc2"
+    }, 
+    "difType": "shim-eth-vlan"
+}

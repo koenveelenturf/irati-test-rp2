@@ -1,0 +1,20 @@
+{
+    "applicationToDIFMappings": [
+        {
+            "difName": "providerBInternet.DIF", 
+            "encodedAppName": "rina.apps.echotime.server-1--"
+        }, 
+        {
+            "difName": "providerBInternet.DIF", 
+            "encodedAppName": "rina.apps.echotime.client-1--"
+        }, 
+        {
+            "difName": "providerBInternet.DIF", 
+            "encodedAppName": "rina.apps.echotime-2--"
+        }, 
+        {
+            "difName": "providerBInternet.DIF", 
+            "encodedAppName": "rina.apps.echotime.client-2--"
+        }
+    ]
+}
